@@ -43,7 +43,7 @@
     }
     
     .banner__pesquisa::placeholder {
-        background-position: 7em;
+        background-position-x: 7em;
     }
     .banner__texto {
         margin: 1em;
@@ -55,7 +55,7 @@
         width: 35%;
     }
     .banner__pesquisa::placeholder{
-        background-position: 12em;
+        background-position-x: 5em;
     }
     .banner {
         padding: 6em 0;
